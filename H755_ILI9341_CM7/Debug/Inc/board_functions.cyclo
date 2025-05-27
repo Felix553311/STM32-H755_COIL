@@ -1,0 +1,6 @@
+../Inc/board_functions.c:39:6:delay	2
+../Inc/board_functions.c:58:6:TIM2_IRQHandler	1
+../Inc/board_functions.c:65:6:delay_u	2
+../Inc/board_functions.c:84:6:TIM3_IRQHandler	1
+../Inc/board_functions.c:92:9:RandomNG	2
+../Inc/board_functions.c:108:10:HASH_RNG_IRQHandler	4

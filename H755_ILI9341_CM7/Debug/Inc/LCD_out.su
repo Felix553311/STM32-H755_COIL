@@ -1,0 +1,2 @@
+../Inc/LCD_out.c:26:7:LCD_write	0	static
+../Inc/LCD_out.c:86:6:LCD_Init	8	static
