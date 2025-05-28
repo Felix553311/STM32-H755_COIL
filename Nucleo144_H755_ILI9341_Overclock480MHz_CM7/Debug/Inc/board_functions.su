@@ -1,0 +1,6 @@
+../Inc/board_functions.c:50:6:delay	16	static,ignoring_inline_asm
+../Inc/board_functions.c:69:6:TIM2_IRQHandler	0	static
+../Inc/board_functions.c:76:6:delay_u	16	static,ignoring_inline_asm
+../Inc/board_functions.c:95:6:TIM3_IRQHandler	0	static
+../Inc/board_functions.c:103:9:RandomNG	0	static
+../Inc/board_functions.c:148:6:HASH_RNG_IRQHandler	0	static

@@ -1,0 +1,4 @@
+../Inc/board.c:20:6:board_voltage	8	static
+../Inc/board.c:49:6:board_oclk	24	static
+../Inc/board.c:183:6:board_start	4	static
+../Inc/board.c:209:6:DWT_Init	0	static
