@@ -1,0 +1,8 @@
+"./Inc/LCD_draw_lib.o"
+"./Inc/LCD_out.o"
+"./Inc/board.o"
+"./Inc/board_functions.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32h755zitx.o"

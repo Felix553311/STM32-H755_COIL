@@ -1,0 +1,8 @@
+../Inc/board_functions.c:51:6:delay	8	static,ignoring_inline_asm
+../Inc/board_functions.c:70:6:TIM2_IRQHandler	0	static
+../Inc/board_functions.c:77:6:delay_u	8	static,ignoring_inline_asm
+../Inc/board_functions.c:96:6:TIM3_IRQHandler	0	static
+../Inc/board_functions.c:104:9:RandomNG	0	static
+../Inc/board_functions.c:149:6:HASH_RNG_IRQHandler	0	static
+../Inc/board_functions.c:159:9:hwswflpy	0	static
+../Inc/board_functions.c:168:6:EXTI15_10_IRQHandler	0	static
