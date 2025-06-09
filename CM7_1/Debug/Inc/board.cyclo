@@ -1,0 +1,4 @@
+../Inc/board.c:39:6:board_voltage	2
+../Inc/board.c:68:6:board_oclk	7
+../Inc/board.c:202:6:board_start	1
+../Inc/board.c:232:6:DWT_Init	1

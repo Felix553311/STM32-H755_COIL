@@ -1,0 +1,8 @@
+../Src/main.c:102:6:hit_tstf	12	static
+../Src/main.c:142:6:tuberand	8	static
+../Src/main.c:183:6:flappy_poso	32	static
+../Src/main.c:223:7:flappy	16	static
+../Src/main.c:248:6:bird	0	static
+../Src/main.c:153:6:flappy_pos	40	static
+../Src/main.c:296:6:gamecyc	72	static
+../Src/main.c:268:5:main	8	static

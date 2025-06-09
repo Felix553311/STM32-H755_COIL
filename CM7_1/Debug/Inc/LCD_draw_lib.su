@@ -1,0 +1,8 @@
+../Inc/LCD_draw_lib.c:87:6:LCD_command	8	static
+../Inc/LCD_draw_lib.c:94:6:LCD_dataw	8	static
+../Inc/LCD_draw_lib.c:47:6:scr_area	16	static
+../Inc/LCD_draw_lib.c:61:6:LCD_Scroll	8	static
+../Inc/LCD_draw_lib.c:103:6:Pixel	24	static
+../Inc/LCD_draw_lib.c:126:6:Line	24	static
+../Inc/LCD_draw_lib.c:151:6:Line_h	32	static
+../Inc/LCD_draw_lib.c:177:6:Rect	32	static

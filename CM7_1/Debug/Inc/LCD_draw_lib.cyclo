@@ -1,0 +1,8 @@
+../Inc/LCD_draw_lib.c:87:6:LCD_command	1
+../Inc/LCD_draw_lib.c:94:6:LCD_dataw	1
+../Inc/LCD_draw_lib.c:47:6:scr_area	1
+../Inc/LCD_draw_lib.c:61:6:LCD_Scroll	1
+../Inc/LCD_draw_lib.c:103:6:Pixel	1
+../Inc/LCD_draw_lib.c:126:6:Line	2
+../Inc/LCD_draw_lib.c:151:6:Line_h	2
+../Inc/LCD_draw_lib.c:177:6:Rect	2
