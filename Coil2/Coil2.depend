@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1749630533 source:c:\users\felix\documents\programmieren c\coil\game\codeblocks\coil2\output.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<output.h>
+	<main.h>
+
+1749631331 source:c:\users\felix\documents\programmieren c\coil\game\codeblocks\coil2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<output.h>
+
+1749626541 c:\users\felix\documents\programmieren c\coil\game\codeblocks\coil2\main.h
+	<main.h>
+
+1749631139 c:\users\felix\documents\programmieren c\coil\game\codeblocks\coil2\output.h
+	<stdbool.h>
+
